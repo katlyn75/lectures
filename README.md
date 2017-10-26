@@ -21,3 +21,10 @@ Lecture notes can be found in each class' README file. Demo code will be found i
 ## Lab Assignments
 
 Lab assignments and instructions can be found in each class' `lab` subdirectory.
+
+
+
+
+
+This is me making changes to READ Me!
+blah blah blah bla blah
