@@ -1,6 +1,5 @@
 # Code 201: Foundations of Software Development
 
-
 Welcome to Code 201! This class will build your foundational knowledge of HTML, CSS, JavaScript, Git, and general web development, to prepare you for the deep dive of Code 301.
 
 ## Course Schedule
@@ -16,7 +15,8 @@ Week 4     | Project Week
 
 Lecture notes can be found in each class' README file. Demo code will be found in the corresponding week's demo repo.
 
-- [Week 1 Demo](#) (link coming soon)
+- [Week 1 Demo](https://github.com/acl-201d-fall-2017/week1-demo)
+- [Week 2 Demo](#) (link coming soon)
 
 ## Lab Assignments
 
