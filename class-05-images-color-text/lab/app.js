@@ -93,12 +93,29 @@ new branch for your work on the next question!
 */
 
 // Write your code here
-function sumAndMultiply(a,b,c){ //eslint-disable-line
+function sumAndMultiply(a,b,c){ 
 
+    // array = [ sum,product,'4 and 7 and 5 sum to 16.', "The product of 4 and 7 and 5 is 140."]; 
+    
+    const d = sum(a,b)[0];
+    const sumTotal = sum(d,c)[0];
+    console.log (sumTotal);
+
+
+
+    const e = multiply(a,b)[0];
+    const productTotal = multiply(e,c)[0];
+    console.log (productTotal); 
+    
+    return [sumTotal , productTotal , a + ' and ' + b + ' and ' + c + ' sum to ' + sumTotal + '.,The product of ' + a + ' and ' + b + ' and ' + c + ' is ' +  productTotal + '.'];
 }
 
+     //eslint-disable-line
+
+//testsumandMultiply ();
+
 // Here is the test for sumAndMultiply(); uncomment it to run it
-// testSumAndMultiply(4,7,5);
+testSumAndMultiply();
 
 
 /////////////////////////////////////
