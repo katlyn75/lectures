@@ -26,7 +26,7 @@ What numbers should go into a table? Your client, Pat, has reviewed the lists of
 | Pioneer Square           |       |        |        |        |        |         |         |         |        |        |        |        |        |        |
 | Powell's |       |        |        |        |        |         |         |         |        |        |        |        |        |        |
 | St. John's       |       |        |        |        |        |         |         |         |        |        |        |        |        |        |
-| Waterfron        |       |        |        |        |        |         |         |         |        |        |        |        |        |        |
+| Waterfront        |       |        |        |        |        |         |         |         |        |        |        |        |        |        |
 | Totals                 |       |        |        |        |        |         |         |         |        |        |        |        |        |        |
 
 
@@ -36,8 +36,9 @@ What numbers should go into a table? Your client, Pat, has reviewed the lists of
 
 ## Technical Requirements
 - Good use of a constructor function; style and syntax are correctly implemented
-- Each cookie stand location should have a separate render() method that creates and appends its row to the table
+- Each cookie stand location should have a separate render() method that creates its row 
 - The header row and footer row are each created in their own stand-alone function
+- Create a buildTable function to add header, each cookie stand's row, and footer row to the table
 - Duplicate code has been removed and DRY principles are evident
 - Working on a non-master branch for the day, with regular commit history. Basically, every time you get something to work, you should do a commit. But you only need to push every couple of hours or so, tops.
 
