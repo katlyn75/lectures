@@ -20,7 +20,7 @@
     * Too many quizzes that aren't super helpful.
 * Project Week Info
     * 4th week = no lectures, no labs, all project work
-    * 4 teams: [3,3,3,4] 
+    * 4 teams: [3,3,3,4]
         * Assigned on **Wednesday**
     * Think of 2-3 ideas, pitch to SJ & TA's Thursday afternoon
     * Basic requirements:
