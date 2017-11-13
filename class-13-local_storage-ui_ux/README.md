@@ -54,6 +54,8 @@
 - Store and use data using JSON syntax and structure.
 
 ## Notes
+* Code Review
+    * [Charlz Bus Mall Code Review](https://github.com/CharlyWelch/bus-mall/pull/3/files)
 * UI and UX
     * UI and UX decisions will be driven by
         * how you want your user to feel when using your product
